@@ -1,14 +1,13 @@
 /**
  * @name NexuSphere Discord Rebuild
- * @author ClearVision Team
+ * @author NexuSphere Design Team
  * @version 3.4.6
- * @description Highly customizable theme for BetterDiscord.
+ * @description Highly customizable theme by the NexuSphere Design Team.
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
- * @invite dHaSxn3
  */
 
-/* Credits to Zerthox for making the original theme. */
+/* Credits to ClearVision Team and Zerthox for making the original theme. */
 
 /* IMPORT CSS */
 @import url(https://raw.githubusercontent.com/Delta-Foxtrot-Alpha/images/main/main.css);
